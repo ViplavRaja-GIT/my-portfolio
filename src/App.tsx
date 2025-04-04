@@ -43,7 +43,7 @@ function App() {
         </div>
         <div className="flex items-center flex-col absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
           <div className="text-center">
-            <a href="/assets/Viplav-Raja's-Resume.pdf" 
+            <a href="/my-portfolio/assets/Viplav-Raja's-Resume.pdf" 
               className="inline-block px-8 py-2 border-2 mb-2 border-[#674cff] text-[#674cff] rounded-lg
                         hover:bg-gradient-to-r hover:from-[#674cff] hover:to-[#9333ea] hover:text-white
                         hover:border-transparent transition-all duration-300" download>
